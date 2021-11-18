@@ -1,6 +1,6 @@
 # W5500-Utilizando-ESP32
 
-Modificar a biblioteca local_config.h com DNS e IP adequados para a rede local.
+Modificar na biblioteca local_config.h DNS e IP adequados para a rede local.
 
 PINOUT:
 GPIO 23 - MOSI
